@@ -24,7 +24,7 @@ The code was run with ``Python 3.7``, ``PyTorch v1.2``. For the full environment
 
 Hyperparameters (reported in Appendix F of the paper) are set in the ``main_*.py`` files. More detailed code is in the corresponding ``train_*.py`` files.
 
-This code was written by Siddharth Swaroop and Pingbo Pan. Please raise issues here via github, or contact [Siddharth](ss2163@cam.ac.uk).
+This code was written by Siddharth Swaroop and Pingbo Pan. Please raise issues here via github, or contact [Siddharth](mailto:ss2163@cam.ac.uk).
 
 ## Citation
 
